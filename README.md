@@ -1,4 +1,4 @@
-- 👋 Hi JoJo, still remember me?
+- 👋 Hi, this is an introduction page 
 
 <!---
 Tcqq0422/Tcqq0422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
